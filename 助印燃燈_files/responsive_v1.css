@@ -1,0 +1,41 @@
+#hor_nav
+{
+}
+@media (max-width: 767px)
+{
+	#page_header_h3
+	{
+		margin-top: 0 !important;
+		margin-right: 0 !important;
+		margin-left: 0 !important;
+	}
+	UL#social_bm_nav
+	{
+		float: left !important;
+	}
+	.header .inputbox
+	{
+		display: none;
+	}
+	.footer
+	{
+		padding: 20px;
+	}
+	#carousel
+	{
+		display: none;
+	}
+	#social_bm_outer
+	{
+		display: none;
+	}
+	BODY.site
+	{
+		margin-top: 0px !important;
+	}
+	.header
+	{
+		min-height: 1px !important;
+		margin-bottom: 25px !important;
+	}
+}
